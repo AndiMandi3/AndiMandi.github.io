@@ -1,0 +1,18 @@
+/* Молочный шрифт */
+@font-face {
+	font-family: 'MilkMustacheBB';
+	src: url("Milk Mustache BB.eot");
+	src: url("Milk Mustache BB.eot?#iefix") format("embedded-opentype"),
+			 url("Milk Mustache BB.woff") format("woff"),
+			 url("Milk Mustache BB.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* Шрифт Ubuntu */
+@font-face {
+	font-family: 'UbuntuMono-Regular';
+	src: url("ubuntumono.eot");
+	src: url("ubuntumono.eot?#iefix") format("embedded-opentype"),
+			 url("ubuntumono.woff") format("woff"),
+			 url("ubuntumono.ttf") format("truetype");
+}
